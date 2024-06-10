@@ -6,12 +6,12 @@ This HR Attrition Dashboard provides an insightful visualization of employee att
 ![Screenshot (12)](https://github.com/johndave74/IBM-Analysis-Dashboard/assets/84364288/cad56a0a-652d-4a15-85da-e367d234b1b5)
 
 ## Features
-  ### Total Employees: Displays the total number of employees.
-  ### Attrition Employees: Shows the number of employees who have left.
-  ### Active Employees: Indicates the number of currently active employees.
-  ### Average Age: Average age of employees.
-  ### Average YIC: Average Years in Company.
-  ### Attrition Rate: The rate of attrition among employees.
+  ##### Total Employees: Displays the total number of employees.
+  ##### Attrition Employees: Shows the number of employees who have left.
+  ##### Active Employees: Indicates the number of currently active employees.
+  ##### Average Age: Average age of employees.
+  ##### Average YIC: Average Years in Company.
+  ##### Attrition Rate: The rate of attrition among employees.
 
 ## Detailed Insights
   ### Attrition by Gender: Pie charts displaying attrition count by male and female employees.
